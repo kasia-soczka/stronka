@@ -1,1 +1,49 @@
 theme: jekyll-theme-slate
+title: ANTHA
+
+use_title-img: true
+title-img: "/img/blac_cardano_logo.png"
+
+use_logo: true
+
+logo: "/img/blac_cardano_logo.png"
+
+use_navbar: true
+
+navbar-links:
+  Home: "home"
+  About: "about"
+  Pool info: "poolinfo"
+  Contact: "contact"
+
+use_avatar: true
+
+avatar: "/img/blac_cardano_logo.png"
+
+round-avatar: true
+
+
+
+social-network-links:
+  email: "styczynska.k@gmail.com"
+  facebook: ANTHA Cardano Stake Pool
+  github: maiejso
+
+
+share-links-active:
+
+  facebook: true
+
+keywords: "cardano, stake, pool, decentralised, cryptocurrency, blockchain, delegation, delegate, delegating"
+
+
+navbar-col: "#25284d"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-img: "img/blac_cardano_logo.png"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
