@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## CARDANO - decentralisation for social and economic equality
 
-You can use the [editor on GitHub](https://github.com/kasia-soczka/stronka/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### ANTHA - new kid in the blockchain, we offer safe and efficient way in to enable all interested to support and build the Cardano network.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- We are a group of Cardano enthusiasts based in UK and Poland. 
+- Have started our journey back in 2013 when we were selling craft items for 0.5 BTC.
+- We bring a mixture of technical and fintech compliance background to the table.
 
-### Markdown
+### Staking fees 0% to maximise network expansion and delegators benefits.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Pool info:
+- Name: Antha
+- Ticker: ANTHA
+- Flexible fee: currently at 0%
+- Fixed fee: 340₳/epoch - minimum allowed setting in Shelley parameters
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kasia-soczka/stronka/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please contact us at styczynska.k@gmail.com
